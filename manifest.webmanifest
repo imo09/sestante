@@ -1,0 +1,32 @@
+{
+  "name": "sestante",
+  "short_name": "sestante",
+  "description": "Il tuo denaro in tre tempi: Passato, Presente, Futuro. Riserva, Fondi e Stelle, e il Punto per restare in rotta. Un'app nautargo, i dati restano sul tuo dispositivo.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#040A11",
+  "theme_color": "#0B1822",
+  "icons": [
+    {
+      "src": "icona-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icona-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icona-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
